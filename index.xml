@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elias Hussen</title>
+    <link>https://ehdev.github.io/</link>
+    <description>Recent content on Elias Hussen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ehdev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://ehdev.github.io/post/all-convolutional-net/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://ehdev.github.io/post/all-convolutional-net/</guid>
+      <description> Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ehdev.github.io/service/ml-api-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ehdev.github.io/service/ml-api-docker/</guid>
+      <description> &amp;mdash; title : &amp;ldquo;Rhino Linings Corporation SPF&amp;rdquo; date : &amp;ldquo;2017-05-10T21:47:41-07:00&amp;rdquo; image : &amp;ldquo;genomic_sequencing.png&amp;rdquo; alt : &amp;ldquo;Rhino Linings Corporation - spray foam insulation division website&amp;rdquo; color : &amp;ldquo;#222&amp;rdquo; link1 : &amp;ldquo;http://spf.rhinolinings.com&amp;quot;
+link2 : &amp;ldquo;&amp;rdquo; draft : false </description>
+    </item>
+    
+  </channel>
+</rss>

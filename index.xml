@@ -6,10 +6,19 @@
     <description>Recent content on Elias Hussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2017 22:01:26 -0500</lastBuildDate>
     
 	<atom:link href="https://ehdev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://ehdev.github.io/about/</link>
+      <pubDate>Mon, 13 Nov 2017 22:01:26 -0500</pubDate>
+      
+      <guid>https://ehdev.github.io/about/</guid>
+      <description> Write a script to pull data from one of Google’s public APIs and write a blog post about what you’ve found Use a web scraper to scrape a few hundred thousand web pages and fit some topic models to create a news recommendation engine. Write an app for your phone that tracks your usage and analyze that. Be creative!  </description>
+    </item>
     
     <item>
       <title>Getting Started with Hugo</title>

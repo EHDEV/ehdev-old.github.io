@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elias Hussen</title>
-    <link>https://ehdev.github.io/</link>
+    <link>/</link>
     <description>Recent content on Elias Hussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Nov 2017 22:01:26 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ehdev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://ehdev.github.io/about/</link>
-      <pubDate>Mon, 13 Nov 2017 22:01:26 -0500</pubDate>
-      
-      <guid>https://ehdev.github.io/about/</guid>
-      <description> Write a script to pull data from one of Google’s public APIs and write a blog post about what you’ve found Use a web scraper to scrape a few hundred thousand web pages and fit some topic models to create a news recommendation engine. Write an app for your phone that tracks your usage and analyze that. Be creative!  </description>
-    </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://ehdev.github.io/post/all-convolutional-net/</link>
+      <link>/post/all-convolutional-net/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://ehdev.github.io/post/all-convolutional-net/</guid>
+      <guid>/post/all-convolutional-net/</guid>
       <description> Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -36,12 +27,33 @@ Follow the following steps:
     
     <item>
       <title></title>
-      <link>https://ehdev.github.io/service/ml-api-docker/</link>
+      <link>/service/ml-api-docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ehdev.github.io/service/ml-api-docker/</guid>
+      <guid>/service/ml-api-docker/</guid>
       <description> &amp;mdash; title : &amp;ldquo;Rhino Linings Corporation SPF&amp;rdquo; date : &amp;ldquo;2017-05-10T21:47:41-07:00&amp;rdquo; image : &amp;ldquo;genomic_sequencing.png&amp;rdquo; alt : &amp;ldquo;Rhino Linings Corporation - spray foam insulation division website&amp;rdquo; color : &amp;ldquo;#222&amp;rdquo; link1 : &amp;ldquo;http://spf.rhinolinings.com&amp;quot;
 link2 : &amp;ldquo;&amp;rdquo; draft : false </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Write a script to pull data from one of Google’s public APIs and write a blog post about what you’ve found Use a web scraper to scrape a few hundred thousand web pages and fit some topic models to create a news recommendation engine. Write an app for your phone that tracks your usage and analyze that. Be creative!  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+about
+Necessitatibus
+Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
     </item>
     
   </channel>

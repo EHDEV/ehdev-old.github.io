@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Elias Hussen</title>
-    <link>https://ehdev.github.io/service/</link>
+    <link>/service/</link>
     <description>Recent content in Services on Elias Hussen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ehdev.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ehdev.github.io/service/ml-api-docker/</link>
+      <link>/service/ml-api-docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ehdev.github.io/service/ml-api-docker/</guid>
+      <guid>/service/ml-api-docker/</guid>
       <description> &amp;mdash; title : &amp;ldquo;Rhino Linings Corporation SPF&amp;rdquo; date : &amp;ldquo;2017-05-10T21:47:41-07:00&amp;rdquo; image : &amp;ldquo;genomic_sequencing.png&amp;rdquo; alt : &amp;ldquo;Rhino Linings Corporation - spray foam insulation division website&amp;rdquo; color : &amp;ldquo;#222&amp;rdquo; link1 : &amp;ldquo;http://spf.rhinolinings.com&amp;quot;
 link2 : &amp;ldquo;&amp;rdquo; draft : false </description>
     </item>
